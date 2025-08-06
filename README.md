@@ -17,9 +17,9 @@ The internship's primary goal is to provide hands-on experience in emerging tech
 
 
 ## 👨‍💻 Intern Details
--   **Name:** GYANESH VERMA 
--   **Institute:** OVERNMENT POLYTECHNIC LUCKNOW 
--   **Duration:** 4 Weeks (15th July 2025 to 7th August 2025)
+-   **NAME:** GYANESH VERMA 
+-   **INSTITUTE:** GOVERNMENT POLYTECHNIC LUCKNOW 
+-   **DURATION:** 4 Weeks (15th July 2025 to 7th August 2025)
 
 ## 📖 About the Internship
 This 4-week program focused on providing practical skills in AI and Cloud Computing. The internship was structured with weekly virtual sessions, mentor guidance, and hands-on labs. The curriculum included:
@@ -60,7 +60,7 @@ The deployed model demonstrated high accuracy in classifying infrastructure proj
 
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/Gyanesh11/IBM-CLOUD-Project-/blob/c5ca58a5990813d07a064664b3b8a21032cea444/Screenshot%202025-07-27%20143930.png" />
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/Gyanesh11/IBM-CLOUD-Project-/blob/34ca2bca050fda54aedc815b724236dc8d6cc9b1/Screenshot%202025-07-27%20143958.png" />
-<img width="1920" height="1080" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/96b6d65a-90e2-4e60-91c7-38a160f736cd" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/Gyanesh11/IBM-CLOUD-Project-/blob/785d4abcfc1e129ca78da40ae7ef639d4f1a3428/Screenshot%202025-07-27%20171102.png" />
 <img width="1920" height="1080" alt="Screenshot (562)" src="https://github.com/user-attachments/assets/9ced6554-342a-491b-bf13-5870049e2750" />
 <img width="1920" height="1080" alt="Screenshot (563)" src="https://github.com/user-attachments/assets/bab26089-2ff7-4b5e-ab9f-fae8d4e0418c" />
 
