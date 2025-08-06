@@ -62,7 +62,7 @@ The deployed model demonstrated high accuracy in classifying infrastructure proj
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/Gyanesh11/IBM-CLOUD-Project-/blob/34ca2bca050fda54aedc815b724236dc8d6cc9b1/Screenshot%202025-07-27%20143958.png" />
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/Gyanesh11/IBM-CLOUD-Project-/blob/785d4abcfc1e129ca78da40ae7ef639d4f1a3428/Screenshot%202025-07-27%20171102.png" />
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/Gyanesh11/IBM-CLOUD-Project-/blob/4876df662aa8439fc93765adcef70d8eda05d8cd/Screenshot%202025-07-27%20171139.png" />
-<img width="1920" height="1080" alt="Screenshot (563)" src="https://github.com/user-attachments/assets/bab26089-2ff7-4b5e-ab9f-fae8d4e0418c" />
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/Gyanesh11/IBM-CLOUD-Project-/blob/e39debfe1353fe7b65c370d703e2f7ad41da9c07/Screenshot%202025-07-27%20171250.png" />
 
 
 ## 📁 Repository Contents
