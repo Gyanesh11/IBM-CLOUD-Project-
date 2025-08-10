@@ -42,7 +42,7 @@ An end-to-end machine learning solution was developed to automate the classifica
 -   **AI/ML Service:** IBM watsonx.ai Studio
 -   **Automated ML Tool:** IBM AutoAI
 -   **Core Language & Libraries:**
-    -   Python
+    -   `Python`
     -   `scikit-learn`
     -   `pandas`
     -   `XGBoost`
